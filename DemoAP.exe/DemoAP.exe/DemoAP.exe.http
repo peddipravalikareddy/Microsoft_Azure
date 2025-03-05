@@ -1,0 +1,6 @@
+@DemoAP.exe_HostAddress = http://localhost:5123
+
+GET {{DemoAP.exe_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
